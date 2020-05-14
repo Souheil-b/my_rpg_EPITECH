@@ -1,2 +1,2 @@
-# my_rpg_EPITECH
+# myrpg_EPITECH
 First RPG game
